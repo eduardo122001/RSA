@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655949393 source:d:\c++\algoritmo_rsa\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
